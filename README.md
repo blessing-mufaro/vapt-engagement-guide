@@ -22,3 +22,5 @@ One other thing. You may be wondering why this particular checklist may differ f
 5. Reporting
 
 - The structure within each section may differ slightly as content is added but that's the basic gist - and again, suggestions are welcome 🙃
+- For exploitation and privilege escalation there will be separate folders with Proof of Concept (POC) notes for various exploits. Illustrations for these POCs can be in the form of videos, screenshots and textual writeups.
+- Reference can be made to publicly accessible vulnerable machines on platforms like Try Hack Me, Vulnhub or Hack The Box to illustrate a POC with a practical example.
